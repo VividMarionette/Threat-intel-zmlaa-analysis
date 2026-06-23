@@ -1,5 +1,5 @@
 # Threat Analysis Report: Deconstructing Evasion & Cloaking on zmlaa[.]buzz
-##Summaru
+##Summary
 This report is a independant documentation of the suspicious domain 'zmlaa[.]buzz'. The host has multiple layers of defence including network-layer port spoofing, application-layer wildcard deception, and Content Delivery Network (CDN) edge routing-to hide and active phishing landing page from automated security crawlers.
 
 All tests was conducted via a isolated Kali Linux network environment usuing 'proxychains4' over the Tor network to preserve operational security (OPSEC)
